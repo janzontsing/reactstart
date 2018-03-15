@@ -1,0 +1,1 @@
+var htmlstr = '<div class="menu">menu title</div>';
